@@ -16,7 +16,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-package org.apache.maven.artifact.versioning;
+package net.minecraftforge.maven.version;
 
 /**
  * Occurs when ranges exclude each other and no valid value remains.

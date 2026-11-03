@@ -16,7 +16,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-package org.apache.maven.artifact.versioning;
+package net.minecraftforge.maven.version;
 
 /**
  * Describes an artifact version in terms of its components, converts it to/from a string and
